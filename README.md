@@ -1,7 +1,7 @@
 # AngularApp1
 updated it for fun
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
-Edit for fun
+Edit for fun 2
 
 ## Development server
 
